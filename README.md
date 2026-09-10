@@ -99,4 +99,4 @@ Me chamo Alanis Ortolani, tenho 20 anos e sou estudante de Análise e Desenvolvi
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
-<img align="center" alt="" height="190px" src="./src/fofos.gif">
+<img align="right" alt="" height="190px" src="./src/fofos.gif">
