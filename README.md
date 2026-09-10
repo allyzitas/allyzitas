@@ -95,7 +95,7 @@ Me chamo Alanis Ortolani, tenho 20 anos e sou estudante de Análise e Desenvolvi
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="220" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=allyzitas&layout=compact&custom_title=Stack&langs_count=8&bg_color=282A3A&title_color=E48BAB&text_color=ffffff&icon_color=E48BAB&border_color=282A3A&ring_color=E48BAB" 
   />
 
